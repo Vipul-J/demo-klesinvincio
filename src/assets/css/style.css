@@ -1,0 +1,83 @@
+body{
+    font-family:"Roboto", sans-serif; 
+}
+
+.invi-txt-head{
+    color:#32325c;
+}
+
+.invi-txt{
+    color: #465883;
+}
+
+.navbar-light .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 0, 0, 1%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+.navbar-light .navbar-nav .nav-link{
+    color: #465883;
+}
+
+.navbar-light .navbar-nav .nav-link:hover{
+    transition: .5s;
+    color: #ec7211;
+}
+
+.navbar-light .navbar-nav .btn-primary{ 
+    background-color: #00A1C9;
+    border: #00A1C9; 
+    border-radius: 6px;
+    font-size: 14px;
+    padding: 11px 15px 9px; 
+}
+
+.navbar-light .navbar-nav .btn-primary:hover{ 
+    background-color: #4bbae3; 
+    transition: .7s;
+}
+
+.back-blue{
+    background-color: #00A1C9;
+}
+
+.font-blue{
+    color: #00A1C9;
+}
+
+.btn-primary{
+    background-color: #00A1C9;
+    border: #00A1C9; 
+    border-radius: 6px;
+    font-size: 14px;
+    padding: 11px 15px 9px; 
+}
+
+.btn-primary:hover{
+    background-color: #4bbae3; 
+    transition: .7s;
+}
+
+.card{
+    width: 16rem;
+}
+
+.rwt-dark-footer-bg {
+    background: #002933;
+}
+
+.footer-txt {  
+    color: #bababa; 
+}
+
+.footer-txt-vj{
+    color: #ff7c11;
+}
+
+.footer-txt-vj:hover{
+    color: #f9f9f9;
+    transition: .3s;
+}
+
+.footer-txt:hover{
+    color: #ec7211;
+    transition: .3s;
+}
