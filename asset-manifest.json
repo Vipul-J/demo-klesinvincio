@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/demo-klesinvincio/static/css/main.7a56d296.css",
+    "main.js": "/demo-klesinvincio/static/js/main.a8dc17ed.js",
+    "static/js/787.3547ea6f.chunk.js": "/demo-klesinvincio/static/js/787.3547ea6f.chunk.js",
+    "index.html": "/demo-klesinvincio/index.html",
+    "main.7a56d296.css.map": "/demo-klesinvincio/static/css/main.7a56d296.css.map",
+    "main.a8dc17ed.js.map": "/demo-klesinvincio/static/js/main.a8dc17ed.js.map",
+    "787.3547ea6f.chunk.js.map": "/demo-klesinvincio/static/js/787.3547ea6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a56d296.css",
+    "static/js/main.a8dc17ed.js"
+  ]
+}
